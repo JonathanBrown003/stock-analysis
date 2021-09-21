@@ -22,9 +22,10 @@ We're looking at the years 2017 and 2018 stock returns for certain ticker symbol
 
 ![2017_Returns](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/2017_Returns.PNG)
 
-The original VBA script was much less efficient than our refactored code. In fact, the refactored code ran in a fraction of the time:
+The original VBA script from the module was much less efficient than our refactored code. In fact, the refactored code ran in a fraction of the time:
 
 [2017_VBAChallenge_Pic](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/VBA_Challenge_2017.png)
+
 [2018_VBAChallenge_Pic](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary:

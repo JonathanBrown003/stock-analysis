@@ -1,6 +1,6 @@
 # Stock Analysis using Visual Basic (VBA)
 
-### One Detail
+##### One Detail
 The stock analysis refactored VBA code can be found in Module 8 in my VBA_Challenge Visual Basic Editor. 
 
 ## Overview of Project 

@@ -26,11 +26,11 @@ The original VBA script from the module was much less efficient than our refacto
 
 **2017**
 
-[VBA_Challenge_2017](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/VBA_Challenge_2017.png)
 
 **2018**
 
-[VBA_Challenge_2018](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/VBA_Challenge_2018.PNG)
+![VBA_Challenge_2018](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary:
 

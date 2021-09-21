@@ -1,5 +1,7 @@
 # Stock Analysis using Visual Basic (VBA)
 
+![Stock_Arrow](https://raw.githubusercontent.com/JonathanBrown003/stock-analysis/main/Resources/Stock_Arrow.png)
+
 #### One Detail
 The stock analysis refactored VBA code can be found in Module 8 in my VBA_Challenge Visual Basic Editor. 
 
